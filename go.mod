@@ -1,4 +1,4 @@
-module x
+module github.com/xhyonline/x
 
 go 1.13
 
